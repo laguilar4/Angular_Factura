@@ -13,7 +13,7 @@ export class SpinnerComponent implements OnInit{
   constructor(private spinnerSVC : SpinnerService){}
   
   ngOnInit(): void {
-    throw new Error('Method not implemented.');
+    
   }
 
 }
